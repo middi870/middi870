@@ -63,15 +63,6 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 📖 [**doc**](https://github.com/middi870/doc) | Personal documentation blog — Markdown-powered, Git-backed knowledge base |
-| 🌐 [**middi870.github.io**](https://middi870.github.io/) | Personal portfolio / homepage |
-| 🎮 [**Scratch Game**](https://scratch.mit.edu/projects/1108407748) | Interactive game built with Scratch |
-
-
-### 🚀 Featured Projects
-
 📖 **Doc — Personal Documentation Blog**  
 Markdown-powered knowledge system tracking my CS50 journey  
 🔗 https://github.com/middi870/doc  
@@ -83,6 +74,7 @@ My personal homepage and project showcase
 🎮 **Scratch Game**  
 A simple interactive game created while learning programming concepts  
 🔗 https://scratch.mit.edu/projects/1108407748
+
 ---
 
 ### 🐍 Contribution Graph
