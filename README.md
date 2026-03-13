@@ -1,6 +1,10 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=6E40C9&center=true&vCenter=true&width=700&lines=Aditya+%7C+middi870;CS50+Learner;Building+Projects+Every+Day;Documenting+My+Learning+Journey">
+</p>
+
 <div align="center">
 
-# Hey there, I'm Raj 👋
+# Hey there, I'm Aditya (middi870) 👋
 
 ### CS50 learner · Developer · Builder
 
@@ -65,6 +69,20 @@
 | 🌐 [**middi870.github.io**](https://middi870.github.io/) | Personal portfolio / homepage |
 | 🎮 [**Scratch Game**](https://scratch.mit.edu/projects/1108407748) | Interactive game built with Scratch |
 
+
+### 🚀 Featured Projects
+
+📖 **Doc — Personal Documentation Blog**  
+Markdown-powered knowledge system tracking my CS50 journey  
+🔗 https://github.com/middi870/doc  
+
+🌐 **Portfolio Website**  
+My personal homepage and project showcase  
+🔗 https://middi870.github.io  
+
+🎮 **Scratch Game**  
+A simple interactive game created while learning programming concepts  
+🔗 https://scratch.mit.edu/projects/1108407748
 ---
 
 ### 🐍 Contribution Graph
